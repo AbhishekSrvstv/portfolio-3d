@@ -555,13 +555,13 @@ p {
 /* ---------- contact ---------- */
 .mail {
   display: inline-block;
-  font-family: var(--display);
-  font-weight: 700;
-  font-size: clamp(1.05rem, 3.6vw, 2.2rem);
+  font-family: var(--body);
+  font-weight: 800;
+  font-size: clamp(1rem, 4.4vw, 2rem);
   letter-spacing: -0.01em;
   color: var(--lamp);
   text-decoration: none;
-  overflow-wrap: anywhere;
+  white-space: nowrap; /* the email stays on one line */
   border-bottom: 2px solid transparent;
   transition: border-color 0.2s;
 }

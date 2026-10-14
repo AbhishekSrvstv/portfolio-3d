@@ -4,7 +4,7 @@ export const PROFILE = {
   name: 'Abhishek Srivastava',
   role: 'Full Stack Developer',
   city: 'Lucknow, India',
-  email: 'Abhisrivastav08@gmail.com',
+  email: 'Abhisheksrivastava1632@gmail.com',
   github: 'https://github.com/AbhishekSrvstv',
   linkedin: 'https://www.linkedin.com/in/abhisrvstv1632/',
   // The CV PDF lives in the /public folder. The "Download CV" button shows when this is set.
